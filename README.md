@@ -14,7 +14,14 @@
 | SMBIOS | MacBookAir9,1 |
 
 ---
+## Recommended Tools
 
+- ProperTree
+- OCAuxiliaryTools
+- GenSMBIOS
+- Hackintool
+
+---
 ## Working
 
 - Graphics Acceleration (1536 MB)
