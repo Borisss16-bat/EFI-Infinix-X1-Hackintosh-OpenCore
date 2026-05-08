@@ -1,5 +1,9 @@
 # Infinix X1 Hackintosh OpenCore
 
+## Screenshots
+
+_Add screenshots here later._
+
 ## Specifications
 
 | Component | Detail |
@@ -70,6 +74,17 @@ It may also work on similar laptops using the same chipset and hardware configur
 > Please generate your own SMBIOS values before using this EFI.
 
 ---
+## Disclaimer
+
+This repository is provided for educational purposes only.
+
+Use at your own risk.
+
+---
+
+## Star History
+
+If this EFI helped, consider giving the repository a star ⭐
 
 ## Credits
 
