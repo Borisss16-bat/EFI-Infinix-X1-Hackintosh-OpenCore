@@ -1,8 +1,7 @@
 # Infinix X1 Hackintosh OpenCore
 
 ## Screenshots
-
-_Add screenshots here later._
+(Screenshot 2026-05-08 at 15.54.08.png)
 
 ## Specifications
 
