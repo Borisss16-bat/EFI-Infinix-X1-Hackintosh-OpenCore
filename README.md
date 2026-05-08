@@ -21,7 +21,7 @@
 | SSD | NVMe SSD (256GB) |
 | WiFi | Intel Wireless |
 | Audio | Realtek ALC269 |
-| SMBIOS | MacBookAir9,1 |
+| SMBIOS | MacBookAir16,2 |
 
 ---
 ## Recommended Tools
