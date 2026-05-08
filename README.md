@@ -8,7 +8,7 @@
 
 ### Specifications On Mac
 
-![Specifications On Mac](https://github.com/Borisss16-bat/EFI-Infinix-X1-Hackintosh-OpenCore/blob/main/Screenshot%202026-05-08%20at%2015.57.36.png)
+![Specifications On Mac](https://github.com/Borisss16-bat/EFI-Infinix-X1-Hackintosh-OpenCore/blob/main/Screenshot%20.png)
 
 ## Specifications
 
