@@ -1,7 +1,14 @@
 # Infinix X1 Hackintosh OpenCore
 
 ## Screenshots
-(Screenshot 2026-05-08 at 15.54.08.png)
+
+### About This Mac
+
+![About This Mac](https://github.com/Borisss16-bat/EFI-Infinix-X1-Hackintosh-OpenCore/blob/main/Screenshot%202026-05-08%20at%2015.54.08.png)
+
+### Specifications On Mac
+
+![Specifications On Mac]([about.png](https://github.com/Borisss16-bat/EFI-Infinix-X1-Hackintosh-OpenCore/blob/main/Screenshot%202026-05-08%20at%2015.57.36.png))
 
 ## Specifications
 
